@@ -25,12 +25,12 @@ public class TestSeleniumForPractice
 
         var password = driver.FindElement(By.Name("Password"));
         password.SendKeys(("@mzmVFsz3110"));
-        Thread.Sleep(3000);
+        Thread.Sleep(4000);
         
         // нажать кнопку "войти"
         var enter = driver.FindElement(By.Name("button"));
         enter.Click();
-        Thread.Sleep(3000);
+        Thread.Sleep(4000);
         
         // проверка того, что мы находимся на нужной странице
         var currentUrl = driver.Url;
