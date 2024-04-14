@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d82dcff-3422-4889-9563-7e1af279a849" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.testSelenium_Korotaeva/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.testSelenium_Korotaeva/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testSelenium_Korotaeva/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testSelenium_Korotaeva/Class1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MarinaKorotaeva"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MarinaKorotaeva/SeleniumForPractice_Korotaeva.git",
+    "accountId": "863f45c6-3acd-44db-afce-8e113649618d"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/korot/RiderProjects/testSelenium_Korotaeva/testSelenium_Korotaeva/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -57,13 +72,25 @@
       <updated>1713077628976</updated>
       <workItem from="1713077630052" duration="5014000" />
     </task>
+    <task id="LOCAL-00001" summary="Внесение изменений через сам rider">
+      <option name="closed" value="true" />
+      <created>1713084155815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713084155815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Внесение изменений через сам rider" />
+    <option name="LAST_COMMIT_MESSAGE" value="Внесение изменений через сам rider" />
   </component>
 </project>
