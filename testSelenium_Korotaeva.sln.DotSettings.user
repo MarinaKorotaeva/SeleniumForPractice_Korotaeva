@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb514aab_002Dc90a_002D4698_002D9676_002D0de996416092/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Autorization" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A::net8.0::testSelenium_Korotaeva.TestSeleniumForPractice.Autorization&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1600bfd_002Db8cc_002D44ea_002D8325_002D6944593b5651/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Autorization #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A::net8.0::testSelenium_Korotaeva.TestSeleniumForPractice.Autorization&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

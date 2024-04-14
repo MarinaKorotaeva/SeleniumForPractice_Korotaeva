@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testSelenium_Korotaeva", "testSelenium_Korotaeva\testSelenium_Korotaeva.csproj", "{FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA416CA2-C1B5-4E1C-A91C-20B6E9FAE59A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
