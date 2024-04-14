@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d82dcff-3422-4889-9563-7e1af279a849" name="Changes" comment="" />
+    <list default="true" id="2d82dcff-3422-4889-9563-7e1af279a849" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.testSelenium_Korotaeva/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.testSelenium_Korotaeva/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSelenium_Korotaeva/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testSelenium_Korotaeva/Class1.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -25,6 +31,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "bb514aab-c90a-4698-9676-0de996416092.executor": "Run",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713077628976</updated>
-      <workItem from="1713077630052" duration="4234000" />
+      <workItem from="1713077630052" duration="5014000" />
     </task>
     <servers />
   </component>
